@@ -1,0 +1,31 @@
+
+        .x-cover-height{
+            height:50vh;
+        }
+        .cover-image {
+      background-image: url('../onlinebookdj/images/cover/cover1.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size:cover;
+      height: 50vh; 
+     }
+     .cover-image-two {
+      background-image: url('../onlinebookdj/images/cover/cover2.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size:cover;
+      height: 50vh;
+     }
+     .cover-image-three {
+      background-image: url('../onlinebookdj/images/cover/cover3.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size:cover;
+      height: 50vh; 
+       }
+    .book-list {
+        width: 70%;
+    }
+    .card {
+        width: 18rem;
+    }
